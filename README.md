@@ -27,4 +27,3 @@ This site is a standalone marathon training tracker. The official PDF is not inc
 
 All data is stored in your browser (`localStorage`). Nothing is sent to a server.
 # NRC-Marathon-Planner
-# NRC-Marathon-Planner
